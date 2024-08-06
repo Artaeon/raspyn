@@ -1,3 +1,4 @@
+![raspyn_logo_v1 0](https://github.com/user-attachments/assets/a42c6837-9a84-42e7-8581-557c589267fe)
 # Raspyn - Simplifying Speed
 
 ## Overview
@@ -14,6 +15,7 @@ Raspyn is a modern network protocol designed to deliver high-speed, efficient, a
 - **Sockets API:** Utilizes the Berkeley sockets API for network communication.
 - **Makefile:** For build automation, ensuring easy compilation and linking of the source code.
 - **Doxygen:** For generating comprehensive and easy-to-navigate documentation.
+
 
 ## Getting Started
 
